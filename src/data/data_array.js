@@ -114,3 +114,42 @@ export const cat_item_list = [
     price: '9230000',
   },
 ]
+
+export const off_items_list = [
+  {
+    name: 'کیف نظم دهنده بین صندلی خودرو آردوج مدل دو طرفه',
+    img: 'https://dkstatics-public.digikala.com/digikala-products/769b3c70a95e5fd11ecfa04bde14775fea6f9a0f_1723976341.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80',
+    old_price: '1300000',
+    new_price: '899000',
+  },
+  {
+    name: 'پشتی صندلی خودرو مدل عرقگیر Rasta بسته دو عددی',
+    img: 'https://dkstatics-public.digikala.com/digikala-products/5f2564e61edadc95aa276268144d37011f07af21_1720563803.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80',
+    old_price: '719000',
+    new_price: '668000',
+  },
+  {
+    name: 'جاروشارژی مدل YT-M2040',
+    img: 'https://dkstatics-public.digikala.com/digikala-products/3ef0e87f6195d8c415e1629421e6cc93c35c3492_1720975584.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80',
+    old_price: '214000',
+    new_price: '189000',
+  },
+  {
+    name: 'سرویس پخت و پز 6 پارچه تکنو مدل پروانه ',
+    img: 'https://dkstatics-public.digikala.com/digikala-products/0822092aabee249ce47ec55dfddc1e52649aea1d_1706078249.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80',
+    old_price: '1260000',
+    new_price: '1050000',
+  },
+  {
+    name: 'ست کتری و قوری تکنو مدل فلورانس',
+    img: 'https://dkstatics-public.digikala.com/digikala-products/a0e826fe532d963b5b44b99904b8a1a972076cee_1696078992.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80',
+    old_price: '2800000',
+    new_price: '2140000',
+  },
+  {
+    name: 'قابلمه تکنو مدل فلورانس سایز 24',
+    img: 'https://dkstatics-public.digikala.com/digikala-products/d25a6b4e26306d1cffa936e51a9623471a9de59d_1707713385.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80',
+    old_price: '1701000',
+    new_price: '1520000',
+  },
+]
